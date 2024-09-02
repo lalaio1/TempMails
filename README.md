@@ -127,7 +127,7 @@ This example will:
 
 ## Screenshots 📸
 
-![Screenshot 1](Imagem.pgn)
+![Imagem.pgn](https://github.com/lalaio1/TempMails/blob/main/Imagem.png)
 
 ## Troubleshooting 🛠️
 
